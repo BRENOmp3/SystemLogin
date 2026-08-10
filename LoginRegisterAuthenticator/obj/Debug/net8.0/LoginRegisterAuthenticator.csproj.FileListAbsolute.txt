@@ -12,3 +12,4 @@ C:\Users\breno.soares\Source\Repos\LoginRegisterAuthenticator\LoginRegisterAuthe
 C:\Users\breno.soares\Source\Repos\LoginRegisterAuthenticator\LoginRegisterAuthenticator\obj\Debug\net8.0\LoginRegisterAuthenticator.pdb
 C:\Users\breno.soares\Source\Repos\LoginRegisterAuthenticator\LoginRegisterAuthenticator\obj\Debug\net8.0\LoginRegisterAuthenticator.genruntimeconfig.cache
 C:\Users\breno.soares\Source\Repos\LoginRegisterAuthenticator\LoginRegisterAuthenticator\obj\Debug\net8.0\ref\LoginRegisterAuthenticator.dll
+C:\Users\breno.soares\Source\Repos\LoginRegisterAuthenticator\LoginRegisterAuthenticator\obj\Debug\net8.0\LoginRegisterAuthenticator.sourcelink.json

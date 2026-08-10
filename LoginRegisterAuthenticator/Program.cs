@@ -27,9 +27,9 @@ void Register()
     Console.WriteLine("Enter your username: ");
     string username = Console.ReadLine();
     Console.WriteLine("Enter your password: ");
-    string password = Console.ReadLine();
+    string password = ReadPassword();
     Console.WriteLine("Confirm your password: ");
-    string confirmPassword = Console.ReadLine();
+    string confirmPassword = ReadPassword();
 
     if (password != confirmPassword) /*valida senha*/
     {
@@ -39,6 +39,31 @@ void Register()
     {
         Console.WriteLine("Register successfully");
     }
+}
+string ReadPassword()
+{
+    string senha = "";
+    ConsoleKeyInfo key;
+
+    do
+    {
+        key = Console.ReadKey(true); // não mostra a tecla digitada
+
+        if (!char.IsControl(key.KeyChar))
+        {
+            senha += key.KeyChar;
+            Console.Write("*");
+        }
+        else if (key.Key == ConsoleKey.Backspace && senha.Length > 0)
+        {
+            senha = senha.Substring(0, senha.Length - 1);
+            Console.Write("\b \b");
+        }
+
+    } while (key.Key != ConsoleKey.Enter);
+
+    Console.WriteLine();
+    return senha;
 }
 void Login()
 {
