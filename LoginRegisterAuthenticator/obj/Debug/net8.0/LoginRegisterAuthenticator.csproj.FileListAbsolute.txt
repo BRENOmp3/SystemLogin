@@ -1,0 +1,14 @@
+C:\Users\breno.soares\Source\Repos\LoginRegisterAuthenticator\LoginRegisterAuthenticator\bin\Debug\net8.0\LoginRegisterAuthenticator.exe
+C:\Users\breno.soares\Source\Repos\LoginRegisterAuthenticator\LoginRegisterAuthenticator\bin\Debug\net8.0\LoginRegisterAuthenticator.deps.json
+C:\Users\breno.soares\Source\Repos\LoginRegisterAuthenticator\LoginRegisterAuthenticator\bin\Debug\net8.0\LoginRegisterAuthenticator.runtimeconfig.json
+C:\Users\breno.soares\Source\Repos\LoginRegisterAuthenticator\LoginRegisterAuthenticator\bin\Debug\net8.0\LoginRegisterAuthenticator.dll
+C:\Users\breno.soares\Source\Repos\LoginRegisterAuthenticator\LoginRegisterAuthenticator\bin\Debug\net8.0\LoginRegisterAuthenticator.pdb
+C:\Users\breno.soares\Source\Repos\LoginRegisterAuthenticator\LoginRegisterAuthenticator\obj\Debug\net8.0\LoginRegisterAuthenticator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno.soares\Source\Repos\LoginRegisterAuthenticator\LoginRegisterAuthenticator\obj\Debug\net8.0\LoginRegisterAuthenticator.AssemblyInfoInputs.cache
+C:\Users\breno.soares\Source\Repos\LoginRegisterAuthenticator\LoginRegisterAuthenticator\obj\Debug\net8.0\LoginRegisterAuthenticator.AssemblyInfo.cs
+C:\Users\breno.soares\Source\Repos\LoginRegisterAuthenticator\LoginRegisterAuthenticator\obj\Debug\net8.0\LoginRegisterAuthenticator.csproj.CoreCompileInputs.cache
+C:\Users\breno.soares\Source\Repos\LoginRegisterAuthenticator\LoginRegisterAuthenticator\obj\Debug\net8.0\LoginRegisterAuthenticator.dll
+C:\Users\breno.soares\Source\Repos\LoginRegisterAuthenticator\LoginRegisterAuthenticator\obj\Debug\net8.0\refint\LoginRegisterAuthenticator.dll
+C:\Users\breno.soares\Source\Repos\LoginRegisterAuthenticator\LoginRegisterAuthenticator\obj\Debug\net8.0\LoginRegisterAuthenticator.pdb
+C:\Users\breno.soares\Source\Repos\LoginRegisterAuthenticator\LoginRegisterAuthenticator\obj\Debug\net8.0\LoginRegisterAuthenticator.genruntimeconfig.cache
+C:\Users\breno.soares\Source\Repos\LoginRegisterAuthenticator\LoginRegisterAuthenticator\obj\Debug\net8.0\ref\LoginRegisterAuthenticator.dll
